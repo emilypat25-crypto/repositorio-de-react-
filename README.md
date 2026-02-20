@@ -143,22 +143,6 @@ Extracción de propiedades usando llaves {}
 
 Objetivo: Comprender cómo extraer propiedades de objetos de manera simplificada.
 
-▶️ Instrucciones de Ejecución
-
-Este proyecto no requiere instalación de dependencias.
-
-Clonar el repositorio:
-
-git clone https://github.com/tuusuario/turepositorio.git
-
-Abrir el proyecto en Visual Studio Code.
-
-Ejecutar el archivo:
-
-src/features/crud/index.html
-
-Se recomienda utilizar la extensión Live Server para visualizar el proyecto correctamente.
-
 🎯 Objetivo Académico
 
 Aplicar conceptos fundamentales de JavaScript moderno mediante ejercicios prácticos que demuestran:
@@ -170,20 +154,6 @@ Programación asíncrona
 Manejo de almacenamiento local
 
 Organización modular del código
-
-📸 Evidencias
-
-Se adjuntan capturas de pantalla del funcionamiento de cada módulo:
-
-CRUD de datos
-
-Callback
-
-Promises
-
-Async/Await
-
-Destructuring
 
 📄 Conclusión
 
